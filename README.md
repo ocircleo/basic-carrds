@@ -1,9 +1,9 @@
-# Internship Task
+# Internship Task By Cryptonet Technologies Private Limited
 
-This site is a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This site has been set up with React Vite.
 
-- Site Deployed in netlify
+- Site Deployed in Netlify
 
-* Live site Link : https://basic-cards.netlify.app/
-* Github code Link : https://github.com/ocircleo/basic-carrds
+* Live site Link: https://basic-cards.netlify.app/
+* Github code Link: https://github.com/ocircleo/basic-carrds
 * Contact mail: web.salman.pro@gmail.com
